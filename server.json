@@ -1,0 +1,92 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14700,
+      "createdAt": "2025-03-16T16:16:48.803Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50.89,
+      "createdAt": "2025-03-16T16:22:19.042Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2025-03-16T17:17:19.042Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "category": "Venda",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2025-03-16T19:19:51.931Z",
+      "id": 4
+    },
+    {
+      "category": "Alimentação",
+      "description": "Coquinha",
+      "price": 10.6,
+      "type": "outcome",
+      "createdAt": "2025-03-16T21:00:57.356Z",
+      "id": 5
+    },
+    {
+      "category": "Casa",
+      "description": "Aluguel do apartamento",
+      "price": 1200,
+      "type": "outcome",
+      "createdAt": "2025-03-17T16:41:04.698Z",
+      "id": 6
+    },
+    {
+      "category": "Venda",
+      "description": "Computador",
+      "price": 5400,
+      "type": "income",
+      "createdAt": "2025-03-17T16:41:26.485Z",
+      "id": 7
+    },
+    {
+      "category": "Alimentação",
+      "description": "Janta",
+      "price": 39,
+      "type": "outcome",
+      "createdAt": "2025-03-17T16:41:42.488Z",
+      "id": 8
+    },
+    {
+      "category": "Salário",
+      "description": "Salário",
+      "price": 5400,
+      "type": "income",
+      "createdAt": "2025-03-17T16:42:05.403Z",
+      "id": 9
+    },
+    {
+      "category": "Alimentação",
+      "description": "Almoço",
+      "price": 30,
+      "type": "outcome",
+      "createdAt": "2025-03-17T16:42:16.894Z",
+      "id": 10
+    },
+    {
+      "category": "Itens",
+      "description": "Fone de ouvido",
+      "price": 150,
+      "type": "outcome",
+      "createdAt": "2025-03-17T16:42:31.947Z",
+      "id": 11
+    }
+  ]
+}
